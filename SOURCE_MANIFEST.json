@@ -1,0 +1,41 @@
+{
+  "prepared": "2026-10-29",
+  "files": [
+    {
+      "archive": "power-quality-recorder.zip",
+      "member": "power-quality-recorder/documents/images/Reference Circuit Diagram.png",
+      "path": "originals/documents/images/Reference Circuit Diagram.png",
+      "sha256": "31f8c3e9ce00158c6b21cc9ba722a7f607e027ed1d698c535100dfb11a281d96"
+    },
+    {
+      "archive": "power-quality-recorder.zip",
+      "member": "power-quality-recorder/firmware/code/01_i2c_scanner/01_i2c_scanner.ino",
+      "path": "originals/firmware/code/01_i2c_scanner/01_i2c_scanner.ino",
+      "sha256": "fd297247400a36497ed93e2647498e75264be59777fea550820b37ed22296c8d"
+    },
+    {
+      "archive": "power-quality-recorder.zip",
+      "member": "power-quality-recorder/firmware/code/02_ads1115_raw_sampler/02_ads1115_raw_sampler.ino",
+      "path": "originals/firmware/code/02_ads1115_raw_sampler/02_ads1115_raw_sampler.ino",
+      "sha256": "846248b2a75ea254d482c53e8e37ed99bf14c5f3b98d186a2ea60fc95413ad65"
+    },
+    {
+      "archive": "power-quality-recorder.zip",
+      "member": "power-quality-recorder/firmware/code/03_RMS_Voltage_Current_Mesurement/03_RMS_Voltage_Current_Mesurement.ino",
+      "path": "originals/firmware/code/03_RMS_Voltage_Current_Mesurement/03_RMS_Voltage_Current_Mesurement.ino",
+      "sha256": "e009fa61c1729d86409e920607b8ffaaa3d9ca8640dc0800109e3d2aece869dd"
+    },
+    {
+      "archive": "power-quality-recorder.zip",
+      "member": "power-quality-recorder/firmware/code/04_power_quality_meter/04_power_quality_meter.ino",
+      "path": "originals/firmware/code/04_power_quality_meter/04_power_quality_meter.ino",
+      "sha256": "14de676c4fce8c7ab70ea2da91b077ed4911ad4b2bf085a907b163c6c554517b"
+    },
+    {
+      "archive": "power-quality-recorder.zip",
+      "member": "power-quality-recorder/hardware/schematics/esp32_s3_pinout_wiring.md",
+      "path": "originals/hardware/schematics/esp32_s3_pinout_wiring.md",
+      "sha256": "9b6a6283c0c7881be84b9565c9a0458947974fb25c59fe7ca9958887a9db7dd7"
+    }
+  ]
+}
